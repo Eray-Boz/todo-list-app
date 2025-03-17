@@ -13,6 +13,10 @@ This app helps you keep track of your tasks with these features:
 - Shows how many tasks are left to complete
 - Saves your tasks in the browser (localStorage)
 
+## Screenshots
+
+![Screenshot](Screenshots/ss.png)
+
 ## How to use it
 
 1. **Add a task**: Type in the input field and press Enter or click the + button
